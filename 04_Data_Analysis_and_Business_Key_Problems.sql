@@ -25,4 +25,5 @@ select * from retail_sales
 		else 'Evening' end as day_time
 		from retail_sales)t group by day_time
 
---THEN  END OF PROJECT :)
+
+--THE END OF PROJECT :)
